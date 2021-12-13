@@ -22,7 +22,4 @@
 
 ### Installation:
 
-- CurseForge import.
-- *MultiMC import will not work at the moment since there's no Forge support.
-
-*Download mods manually from `modlist.html`, and gather existing mods in overrides/mods for those that aren't on CurseForge.*
+- Import this repo's zip, found [here](https://github.com/GregTech-Intergalactical/Intergalactical-Modpack/tags), into MultiMC or CurseForge. That's it.
