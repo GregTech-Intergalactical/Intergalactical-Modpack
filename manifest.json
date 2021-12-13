@@ -1,0 +1,89 @@
+{
+  "minecraft": {
+    "version": "1.18.1",
+    "modLoaders": [
+      {
+        "id": "forge-39.0.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Intergalactical",
+  "version": "1.0.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 419699,
+      "fileID": 3559690,
+      "required": true
+    },
+    {
+      "projectID": 223794,
+      "fileID": 3561827,
+      "required": true
+    },
+    {
+      "projectID": 228756,
+      "fileID": 3546059,
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 3546071,
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 3562021,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3562050,
+      "required": true
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3556768,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3562421,
+      "required": true
+    },
+    {
+      "projectID": 233071,
+      "fileID": 3545611,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3562184,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 3556823,
+      "required": true
+    },
+    {
+      "projectID": 245211,
+      "fileID": 3550084,
+      "required": true
+    },
+    {
+      "projectID": 282001,
+      "fileID": 3559368,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 3558793,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
